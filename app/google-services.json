@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "198516514580",
+    "firebase_url": "https://eveninggroupproject-default-rtdb.firebaseio.com",
+    "project_id": "eveninggroupproject",
+    "storage_bucket": "eveninggroupproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198516514580:android:5464affc71a7c1d5c52c01",
+        "android_client_info": {
+          "package_name": "com.example.eveninggroupfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198516514580-v4l6qvlbjjj0v7nvv2dqqn790c9cb3j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUds8alRycjL0fjmS3nl-g2vdl-yO7ih4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198516514580-v4l6qvlbjjj0v7nvv2dqqn790c9cb3j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198516514580:android:a95e0059546a35e8c52c01",
+        "android_client_info": {
+          "package_name": "com.example.ownfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198516514580-v4l6qvlbjjj0v7nvv2dqqn790c9cb3j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUds8alRycjL0fjmS3nl-g2vdl-yO7ih4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198516514580-v4l6qvlbjjj0v7nvv2dqqn790c9cb3j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198516514580:android:6da856a57bc8f9bec52c01",
+        "android_client_info": {
+          "package_name": "com.kazimasum.multiupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198516514580-v4l6qvlbjjj0v7nvv2dqqn790c9cb3j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUds8alRycjL0fjmS3nl-g2vdl-yO7ih4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198516514580-v4l6qvlbjjj0v7nvv2dqqn790c9cb3j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
